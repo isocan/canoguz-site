@@ -1,4 +1,5 @@
 baseURL = "https://ismailcanoguz.fr/"
+canonifyURLs = true
 title = "Ismail Can Oguz"
 languageCode = "en"
 defaultContentLanguage = "en"
