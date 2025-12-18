@@ -18,25 +18,26 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
-          submodules: recursive   # fetch theme submodules
-          fetch-depth: 0          # good for .GitInfo/lastmod etc.
+          submodules: recursive
+          fetch-depth: 0
 
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v3
+      # Recommended by GitHub for Pages workflows
+      - uses: actions/configure-pages@v5
+
+      - uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: "0.152.2"
           extended: true
 
-      - name: Build
+      - name: Build with Hugo
         run: hugo --minify
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./public
+          path: ./public   # Hugo output
 
   deploy:
     needs: build
@@ -47,3 +48,5 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
+
+
