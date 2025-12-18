@@ -1,0 +1,18 @@
+colorScheme = "slate"
+
+[homepage]
+  layout = "profile"  # best for academic + industry personal site
+
+[article]
+  showReadingTime = true
+  showDate = true
+
+[header]
+  layout = "fixed"
+
+[footer]
+  showThemeAttribution = false
+
+mainSections = ["posts", "hobbies", "projects"]
+
+

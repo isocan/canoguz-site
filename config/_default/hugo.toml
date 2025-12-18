@@ -1,0 +1,12 @@
+baseURL = "https://ismailcanoguz.fr/"
+title = "Ismail Can Oguz"
+languageCode = "en"
+defaultContentLanguage = "en"
+theme = "blowfish"
+enableRobotsTXT = true
+
+[pagination]
+  pagerSize = 10
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

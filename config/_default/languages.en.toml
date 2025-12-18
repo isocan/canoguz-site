@@ -1,0 +1,23 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Ismail Can Oguz"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+
+[params.author]
+  name = "Ismail Can Oguz"
+  image = "img/author.jpg"
+  headline = "Computational Materials Scientist — ML + DFT for electrocatalysis (HER/ORR)"
+  bio = "I build ML-accelerated atomistic workflows (equivariant GNNs + DFT) to discover catalysts and understand surfaces."
+  links = [
+    { google-scholar = "https://scholar.google.com/citations?hl=tr&user=VFi3h0sAAAAJ" },
+    { orcid = "https://orcid.org/0000-0002-8673-7219" },
+    { github = "https://github.com/isocan" },
+    { linkedin = "https://www.linkedin.com/in/ismailcanoguz" },
+    { email = "mailto:i.c.oguz@differ.nl" }
+  ]
+
