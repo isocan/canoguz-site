@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ismail Can Oguz</title>
+    <link>https://ismailcanoguz.fr/</link>
+    <description>Recent content on Ismail Can Oguz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Ismail Can Oguz</copyright>
+    <lastBuildDate>Mon, 15 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://ismailcanoguz.fr/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Energy &amp; Emissions Forecasting</title>
+      <link>https://ismailcanoguz.fr/projects/energy-emissions/</link>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ismailcanoguz.fr/projects/energy-emissions/</guid>
+      <description>&lt;p&gt;Predicts building energy use and &lt;strong&gt;CO₂ emissions&lt;/strong&gt; from attributes; engineered features and delivered interpretable regression with error analysis.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Credit Scoring for Limited Histories</title>
+      <link>https://ismailcanoguz.fr/projects/credit-scoring/</link>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ismailcanoguz.fr/projects/credit-scoring/</guid>
+      <description>&lt;p&gt;End-to-end &lt;strong&gt;default risk&lt;/strong&gt; model: data prep, model comparison, and &lt;strong&gt;SHAP-based&lt;/strong&gt; interpretability for decision support.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Automated Product Classification (NLP &#43; CV)</title>
+      <link>https://ismailcanoguz.fr/projects/product-classification/</link>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ismailcanoguz.fr/projects/product-classification/</guid>
+      <description>&lt;p&gt;Multimodal pipeline combining &lt;strong&gt;text&lt;/strong&gt; (BERT) and &lt;strong&gt;image&lt;/strong&gt; (VGG16 / classic features) to classify e-commerce items.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>E-commerce Customer Segmentation</title>
+      <link>https://ismailcanoguz.fr/projects/ecommerce-segmentation/</link>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ismailcanoguz.fr/projects/ecommerce-segmentation/</guid>
+      <description>&lt;p&gt;RFM + clustering for retention and LTV uplift, with actionable segments and simple playbooks.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Fruit Classification — Cloud Pipeline</title>
+      <link>https://ismailcanoguz.fr/projects/fruit-cloud/</link>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ismailcanoguz.fr/projects/fruit-cloud/</guid>
+      <description>&lt;p&gt;Scalable training/inference with &lt;strong&gt;AWS (EMR, S3)&lt;/strong&gt; and &lt;strong&gt;PySpark&lt;/strong&gt; for distributed preprocessing; packaged for cloud deployment.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Food Product Analytics for a Nutrition App</title>
+      <link>https://ismailcanoguz.fr/projects/food-nutrition/</link>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ismailcanoguz.fr/projects/food-nutrition/</guid>
+      <description>&lt;p&gt;Computed &lt;strong&gt;health / environmental / packaging&lt;/strong&gt; scores from public datasets to prototype a ranking system.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>World Bank EdTech Opportunity Scan</title>
+      <link>https://ismailcanoguz.fr/projects/worldbank-edtech/</link>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ismailcanoguz.fr/projects/worldbank-edtech/</guid>
+      <description>&lt;p&gt;EDA on global education indicators to identify promising countries for EdTech expansion; includes data quality checks.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://ismailcanoguz.fr/about/</link>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://ismailcanoguz.fr/about/</guid>
+      <description>&lt;p&gt;Hi — I’m &lt;strong&gt;Ismail Can Oguz&lt;/strong&gt;, a computational materials scientist working at the intersection of &lt;strong&gt;machine learning&lt;/strong&gt; and &lt;strong&gt;density functional theory (DFT)&lt;/strong&gt; for &lt;strong&gt;electrocatalysis and energy materials&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;I build ML-assisted workflows for (i) catalyst screening, (ii) structure–property modelling, and (iii) accelerating simulation → insight → design loops.&lt;/p&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;What I’m looking for
+    &lt;div id=&#34;what-im-looking-for&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#what-im-looking-for&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
+    
+&lt;/h2&gt;
+&lt;p&gt;I’m currently interested in roles such as:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://ismailcanoguz.fr/research/</link>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://ismailcanoguz.fr/research/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Research overview
+    &lt;div id=&#34;research-overview&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#research-overview&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
+    
+&lt;/h2&gt;
+&lt;p&gt;My research focuses on &lt;strong&gt;AI-accelerated discovery and understanding of materials&lt;/strong&gt; for electrochemical energy conversion. I combine:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Physics-based modelling (DFT)&lt;/strong&gt; to generate reliable energetics and structure insights&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Machine learning&lt;/strong&gt; to generalize patterns and reduce computational cost&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Workflow automation&lt;/strong&gt; to scale screening while keeping results reproducible&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;Current interests
+    &lt;div id=&#34;current-interests&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#current-interests&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
+    
+&lt;/h2&gt;
+
+&lt;h3 class=&#34;relative group&#34;&gt;1) Electrocatalysis and interfacial chemistry
+    &lt;div id=&#34;1-electrocatalysis-and-interfacial-chemistry&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#1-electrocatalysis-and-interfacial-chemistry&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;adsorption energetics and activity descriptors&lt;/li&gt;
+&lt;li&gt;stability vs activity trade-offs&lt;/li&gt;
+&lt;li&gt;realistic modelling choices (coverage, solvent approximations, uncertainty)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&#34;relative group&#34;&gt;2) ML for atomistic systems (GNN potentials + property prediction)
+    &lt;div id=&#34;2-ml-for-atomistic-systems-gnn-potentials--property-prediction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#2-ml-for-atomistic-systems-gnn-potentials--property-prediction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;structure-aware representations for surfaces and adsorbates&lt;/li&gt;
+&lt;li&gt;in-domain vs out-of-domain detection&lt;/li&gt;
+&lt;li&gt;calibrated ranking for high-throughput screening&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&#34;relative group&#34;&gt;3) Reproducible, scalable pipelines
+    &lt;div id=&#34;3-reproducible-scalable-pipelines&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#3-reproducible-scalable-pipelines&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;automated dataset curation (deduplication, metadata, provenance)&lt;/li&gt;
+&lt;li&gt;HPC-ready workflows (job arrays, checkpointing, failure recovery)&lt;/li&gt;
+&lt;li&gt;transparent reporting: “what changed and why”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;What I want to build next
+    &lt;div id=&#34;what-i-want-to-build-next&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#what-i-want-to-build-next&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
+    
+&lt;/h2&gt;
+&lt;p&gt;I’m excited by teams building &lt;strong&gt;AI4Science&lt;/strong&gt; systems that connect:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://ismailcanoguz.fr/publications/</link>
+      <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://ismailcanoguz.fr/publications/</guid>
+      <description>&lt;p&gt;I keep this page short. For a complete, always-updated list, see:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Google Scholar:&lt;/strong&gt; &lt;a
+  href=&#34;https://scholar.google.com/citations?hl=tr&amp;amp;user=VFi3h0sAAAAJ&#34;
+    target=&#34;_blank&#34;
+  &gt;https://scholar.google.com/citations?hl=tr&amp;user=VFi3h0sAAAAJ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ORCID:&lt;/strong&gt; &lt;a
+  href=&#34;https://orcid.org/0000-0002-8673-7219&#34;
+    target=&#34;_blank&#34;
+  &gt;https://orcid.org/0000-0002-8673-7219&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;2025
+    &lt;div id=&#34;2025&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#2025&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Ismail Can Oguz&lt;/strong&gt;, Nabil Khossossi, Marco Brunacci, Haldun Bucak, Süleyman Er.&lt;br&gt;
+&lt;strong&gt;&lt;em&gt;Machine Learning–Accelerated Discovery of Earth-Abundant Bimetallic Electrocatalysts for the Hydrogen Evolution Reaction&lt;/em&gt;&lt;/strong&gt;.&lt;br&gt;
+&lt;em&gt;ACS Catalysis&lt;/em&gt; (2025). DOI: &lt;a
+  href=&#34;https://doi.org/10.1021/acscatal.5c04967&#34;
+    target=&#34;_blank&#34;
+  &gt;https://doi.org/10.1021/acscatal.5c04967&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;2024
+    &lt;div id=&#34;2024&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#2024&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Ismail Can Oguz&lt;/strong&gt;, Frederic Jaouen, Tzonka Mineva.&lt;br&gt;
+&lt;strong&gt;&lt;em&gt;Exploring Spin Distribution and Electronic Properties in FeN4-Graphene Catalysts with Edge Terminations&lt;/em&gt;&lt;/strong&gt;.&lt;br&gt;
+&lt;em&gt;Molecules&lt;/em&gt; &lt;strong&gt;29&lt;/strong&gt;(2), 479 (2024). DOI: &lt;a
+  href=&#34;https://doi.org/10.3390/molecules29020479&#34;
+    target=&#34;_blank&#34;
+  &gt;https://doi.org/10.3390/molecules29020479&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;2021
+    &lt;div id=&#34;2021&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#2021&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Dario Vassetti, &lt;strong&gt;Ismail Can Oguz&lt;/strong&gt;, Frédéric Labat.&lt;br&gt;
+&lt;strong&gt;&lt;em&gt;Generalizing Continuum Solvation in Crystal to Nonaqueous Solvents: Implementation, Parametrization, and Application to Molecules and Surfaces&lt;/em&gt;&lt;/strong&gt;.&lt;br&gt;
+&lt;em&gt;Journal of Chemical Theory and Computation&lt;/em&gt; &lt;strong&gt;17&lt;/strong&gt;(10), 6432–6448 (2021). DOI: &lt;a
+  href=&#34;https://doi.org/10.1021/acs.jctc.1c00611&#34;
+    target=&#34;_blank&#34;
+  &gt;https://doi.org/10.1021/acs.jctc.1c00611&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>What I learned from NeurIPS Open Polymer Prediction (Kaggle)</title>
+      <link>https://ismailcanoguz.fr/posts/kaggle-neurips-open-polymer-2025/</link>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://ismailcanoguz.fr/posts/kaggle-neurips-open-polymer-2025/</guid>
+      <description>&lt;p&gt;Our team ranked &lt;strong&gt;219 / 2240 (bronze)&lt;/strong&gt;. Notes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Start simple baselines early; add ensembling later.&lt;/li&gt;
+&lt;li&gt;Careful CV splits matter as much as model choice.&lt;/li&gt;
+&lt;li&gt;Good feature hygiene and ablations beat one-off leaderboard jumps.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Building ML &#43; DFT pipelines that scientists actually use</title>
+      <link>https://ismailcanoguz.fr/posts/ml-dft-pipelines/</link>
+      <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://ismailcanoguz.fr/posts/ml-dft-pipelines/</guid>
+      <description>&lt;p&gt;A short playbook for &lt;strong&gt;equivariant GNN + DFT loops&lt;/strong&gt;, dataset schemata, and how to keep runs reproducible on HPC.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

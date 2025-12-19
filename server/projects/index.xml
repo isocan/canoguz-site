@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Ismail Can Oguz</title>
+    <link>https://ismailcanoguz.fr/projects/</link>
+    <description>Recent content in Projects on Ismail Can Oguz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Ismail Can Oguz</copyright>
+    <lastBuildDate>Tue, 24 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ismailcanoguz.fr/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Energy &amp; Emissions Forecasting</title>
+      <link>https://ismailcanoguz.fr/projects/energy-emissions/</link>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ismailcanoguz.fr/projects/energy-emissions/</guid>
+      <description>&lt;p&gt;Predicts building energy use and &lt;strong&gt;CO₂ emissions&lt;/strong&gt; from attributes; engineered features and delivered interpretable regression with error analysis.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Credit Scoring for Limited Histories</title>
+      <link>https://ismailcanoguz.fr/projects/credit-scoring/</link>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ismailcanoguz.fr/projects/credit-scoring/</guid>
+      <description>&lt;p&gt;End-to-end &lt;strong&gt;default risk&lt;/strong&gt; model: data prep, model comparison, and &lt;strong&gt;SHAP-based&lt;/strong&gt; interpretability for decision support.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Automated Product Classification (NLP &#43; CV)</title>
+      <link>https://ismailcanoguz.fr/projects/product-classification/</link>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ismailcanoguz.fr/projects/product-classification/</guid>
+      <description>&lt;p&gt;Multimodal pipeline combining &lt;strong&gt;text&lt;/strong&gt; (BERT) and &lt;strong&gt;image&lt;/strong&gt; (VGG16 / classic features) to classify e-commerce items.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>E-commerce Customer Segmentation</title>
+      <link>https://ismailcanoguz.fr/projects/ecommerce-segmentation/</link>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ismailcanoguz.fr/projects/ecommerce-segmentation/</guid>
+      <description>&lt;p&gt;RFM + clustering for retention and LTV uplift, with actionable segments and simple playbooks.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Fruit Classification — Cloud Pipeline</title>
+      <link>https://ismailcanoguz.fr/projects/fruit-cloud/</link>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ismailcanoguz.fr/projects/fruit-cloud/</guid>
+      <description>&lt;p&gt;Scalable training/inference with &lt;strong&gt;AWS (EMR, S3)&lt;/strong&gt; and &lt;strong&gt;PySpark&lt;/strong&gt; for distributed preprocessing; packaged for cloud deployment.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Food Product Analytics for a Nutrition App</title>
+      <link>https://ismailcanoguz.fr/projects/food-nutrition/</link>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ismailcanoguz.fr/projects/food-nutrition/</guid>
+      <description>&lt;p&gt;Computed &lt;strong&gt;health / environmental / packaging&lt;/strong&gt; scores from public datasets to prototype a ranking system.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>World Bank EdTech Opportunity Scan</title>
+      <link>https://ismailcanoguz.fr/projects/worldbank-edtech/</link>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ismailcanoguz.fr/projects/worldbank-edtech/</guid>
+      <description>&lt;p&gt;EDA on global education indicators to identify promising countries for EdTech expansion; includes data quality checks.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Competitions on Ismail Can Oguz</title>
+    <link>https://ismailcanoguz.fr/tags/competitions/</link>
+    <description>Recent content in Competitions on Ismail Can Oguz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Ismail Can Oguz</copyright>
+    <lastBuildDate>Mon, 15 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://ismailcanoguz.fr/tags/competitions/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>What I learned from NeurIPS Open Polymer Prediction (Kaggle)</title>
+      <link>https://ismailcanoguz.fr/posts/kaggle-neurips-open-polymer-2025/</link>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://ismailcanoguz.fr/posts/kaggle-neurips-open-polymer-2025/</guid>
+      <description>&lt;p&gt;Our team ranked &lt;strong&gt;219 / 2240 (bronze)&lt;/strong&gt;. Notes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Start simple baselines early; add ensembling later.&lt;/li&gt;
+&lt;li&gt;Careful CV splits matter as much as model choice.&lt;/li&gt;
+&lt;li&gt;Good feature hygiene and ablations beat one-off leaderboard jumps.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

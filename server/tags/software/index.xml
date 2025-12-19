@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software on Ismail Can Oguz</title>
+    <link>https://ismailcanoguz.fr/tags/software/</link>
+    <description>Recent content in Software on Ismail Can Oguz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Ismail Can Oguz</copyright>
+    <lastBuildDate>Sat, 30 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://ismailcanoguz.fr/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Building ML &#43; DFT pipelines that scientists actually use</title>
+      <link>https://ismailcanoguz.fr/posts/ml-dft-pipelines/</link>
+      <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://ismailcanoguz.fr/posts/ml-dft-pipelines/</guid>
+      <description>&lt;p&gt;A short playbook for &lt;strong&gt;equivariant GNN + DFT loops&lt;/strong&gt;, dataset schemata, and how to keep runs reproducible on HPC.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
