@@ -1,17 +1,14 @@
 ---
 title: "Publications"
+description: "Peer-reviewed articles and preprints."
 date: 2025-10-28
 draft: false
 ---
 
+I keep this page short. For a complete, always-updated list, see:
 
-description: "Peer-reviewed journal articles and manuscripts."
----
-
-Below is my full publication list. For an always-updated version, see:
-## Profiles
-- Google Scholar: [Ismail Can Oguz](https://scholar.google.com/citations?hl=tr&user=VFi3h0sAAAAJ&view_op=list_works&sortby=pubdate)
-- ORCID: https://orcid.org/0000-0002-8673-7219
+- **Google Scholar:** <https://scholar.google.com/citations?hl=tr&user=VFi3h0sAAAAJ>
+- **ORCID:** <https://orcid.org/0000-0002-8673-7219>
 
 ---
 

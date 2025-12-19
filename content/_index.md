@@ -8,7 +8,7 @@ description: "Computational Materials Scientist & ML Engineer — AI for Science
 I’m a **computational materials scientist** who builds **machine-learning + simulation** workflows to accelerate discovery and decision-making. I’m currently a **researcher at [DIFFER — Dutch Institute for Fundamental Energy Research](https://www.differ.nl/)** in Eindhoven, NL, where I work on data-driven materials discovery.
 
 ### Quick links
-- **CV (PDF):** [Download](/files/CV_Oguz.pdf)
+- **CV (PDF):** [Download](/files/cv_oguz.pdf)
 - **Google Scholar:** <https://scholar.google.com/citations?hl=tr&user=VFi3h0sAAAAJ>
 - **ORCID:** <https://orcid.org/0000-0002-8673-7219>
 - **GitHub:** <https://github.com/isocan>
