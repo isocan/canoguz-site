@@ -1,13 +1,10 @@
 ---
 title: "E-commerce Customer Segmentation"
-date: 2024-12-24
 externalUrl: "https://github.com/isocan/ecommerce-customer-segmentation"
-cover:
-  image: "/projects/ecommerce-customer-segmentation/featured.jpg"
-  alt: "Customer segmentation"
-showDate: true
-showReadingTime: false
+featureimage: "featured.jpg"
+weight: 50
 draft: false
+imagePosition: "center"
 ---
 
 

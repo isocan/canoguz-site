@@ -1,7 +1,11 @@
 ---
 title: "Projects"
-description: "Selected ML & data science projects"
+draft: false
+# Hide extra meta on cards site-wide for this section
+cascade:
+  showSummary: false
+  showReadingTime: false
+  showDate: false
 ---
-Below are representative projects from my GitHub. Each card links to the repo with a short, outcome-focused blurb.
-
+Below are representative projects from my GitHub. Each card links directly to the repository.
 

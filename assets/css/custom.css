@@ -1,0 +1,7 @@
+/* Make project card thumbnails show the entire image */
+.thumbnail_card {
+  background-size: contain !important;   /* was cover */
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
