@@ -6,6 +6,10 @@ defaultContentLanguage = "en"
 theme = "blowfish"
 enableRobotsTXT = true
 
+[params]
+description = "ML for Materials (DFT + GNNs) · Research Engineer / Data Scientist · Postdoc @ DIFFER"
+images = ["og/cover.png"]
+
 [pagination]
   pagerSize = 10
 
