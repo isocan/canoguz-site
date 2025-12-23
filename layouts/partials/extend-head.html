@@ -1,22 +1,25 @@
 <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
 
-<!-- Basic -->
-<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
-<link rel="canonical" href="{{ .Permalink }}">
+<!-- LinkedIn / OpenGraph defaults (site-level, safe because this partial is called with .Site) -->
+{{- $title := .Title -}}
+{{- $desc := (.Params.description | default .Params.Description | default "") -}}
+{{- $img  := (.Params.ogImage | default .Params.og_image | default "/images/og-linkedin.png") -}}
+{{- $url  := .BaseURL -}}
 
-<!-- Open Graph (LinkedIn uses this) -->
 <meta property="og:type" content="website">
-<meta property="og:title" content="{{ with .Title }}{{ . }}{{ else }}{{ .Site.Title }}{{ end }}">
-<meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
-<meta property="og:url" content="{{ .Permalink }}">
-<meta property="og:image" content="{{ (printf "%simages/og.png" .Site.BaseURL) | absURL }}">
-<meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="627">
+<meta property="og:site_name" content="{{ $title }}">
+<meta property="og:title" content="{{ $title }}">
+{{- if $desc }}<meta property="og:description" content="{{ $desc }}">{{ end -}}
+<meta property="og:url" content="{{ $url }}">
+<meta property="og:image" content="{{ $img | absURL }}">
 
-<!-- Twitter Card (also nice for other platforms) -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="{{ with .Title }}{{ . }}{{ else }}{{ .Site.Title }}{{ end }}">
-<meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
-<meta name="twitter:image" content="{{ (printf "%simages/og.png" .Site.BaseURL) | absURL }}">
+<meta name="twitter:title" content="{{ $title }}">
+{{- if $desc }}<meta name="twitter:description" content="{{ $desc }}">{{ end -}}
+<meta name="twitter:image" content="{{ $img | absURL }}">
 
-<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "3121201161044d75959553e9da367dbf"}'></script><!-- End Cloudflare Web Analytics -->
+<!-- Cloudflare Web Analytics -->
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js"
+  data-cf-beacon='{"token":"3121201161044d75959553e9da367dbf"}'></script>
+
+
